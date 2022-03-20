@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi everyone I'm Ardiansyah 👋
 
+I'm so excited to share my codes, because I really have huge interest in programming
+📫 Reach me out! Email: ardiansyahp8@gmail.com
 <!--
 **ardiansyahp8/ardiansyahp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
